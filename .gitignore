@@ -19,3 +19,4 @@ fp-info-cache
 *.ses
 *.xml
 *.csv
+\#auto_saved_files\#
