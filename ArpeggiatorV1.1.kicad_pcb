@@ -3351,7 +3351,7 @@
     (property "ki_keywords" "mounting hole")
     (path "/7268876a-6f88-489a-9f0e-e1220286d703")
     (attr exclude_from_pos_files)
-    (fp_text reference "H1" (at 0 -5) (layer "F.SilkS")
+    (fp_text reference "H1" (at 0 -5) (layer "F.SilkS") hide
         (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 33e8ad5d-db77-4d59-ada8-d05327831313)
     )
@@ -5163,6 +5163,8 @@
     )
   )
 
+  (gr_rect (start 103.124 74.676) (end 127 80.264)
+    (stroke (width 0.15) (type solid)) (fill solid) (layer "F.SilkS") (tstamp 352bf475-c113-4905-9ccc-a01f178571f7))
   (gr_rect (start 35.56 35.56) (end 135.56 135.56)
     (stroke (width 0.1) (type default)) (fill none) (layer "Edge.Cuts") (tstamp 8870d929-cc92-4f7c-ad5c-46d0352af54a))
   (gr_text "Raspberry Pi Pico" (at 109.728 84.836) (layer "B.SilkS") (tstamp d56817ec-fcfd-4458-b674-e05bd9f6464a)
@@ -5185,6 +5187,9 @@
   )
   (gr_text "MIDI\nArpeggiator\nv1.1" (at 99.568 61.976) (layer "F.SilkS") (tstamp a7e91706-32f2-4606-a9ed-6499197d7729)
     (effects (font (size 3 2) (thickness 0.4) bold) (justify left bottom))
+  )
+  (gr_text "Serial:" (at 91.948 79.248) (layer "F.SilkS") (tstamp b823fe62-8df0-42a6-840f-6daf7397776f)
+    (effects (font (size 2 2) (thickness 0.15)) (justify left bottom))
   )
   (gr_text "Hold" (at 129.54 123.952) (layer "F.SilkS") (tstamp ddac3a4d-a5e6-4161-ab97-9f79fc34a3cf)
     (effects (font (size 1 1) (thickness 0.15)) (justify bottom))
