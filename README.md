@@ -12,3 +12,14 @@ https://github.com/ncarandini/KiCad-RP-Pico
 
 Female DIN (MIDI) connector symbol and footprint from:
 https://github.com/nebs/eurocad
+
+## Images and Resources
+
+![Schematic](Images/ArpeggiatorV1.1-schematic-preview.png)
+
+[PDF Schematic](Images/ArpeggiatorV1.1.pdf)
+
+![PCB Front](Images/ArpeggiatorV1.1-front.png)
+![PCB Back](Images/ArpeggiatorV1.1-back.png)
+![PCB Front (3D view)](Images/ArpeggiatorV1.1-3d-front.png)
+![PCB Back (3D view)](Images/ArpeggiatorV1.1-3d-back.png)
