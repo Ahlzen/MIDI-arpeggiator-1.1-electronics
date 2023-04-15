@@ -1,0 +1,56 @@
+PCB Mechanical Layout
+=====================
+Notes on locations for panel elements (buttons, LEDs, connectors etc.)
+
+All measurements in mm
+
+Origin at top left
+[0,0]->[100,0]
+|
+V
+[0,100]
+
+Buttons
+-------
+SW_SYNC   7.62, 92.71
+SW_OCT   29.21, 92.71
+SW_MODE  46.99, 92.71
+SW_ONOFF 73.66, 92.71
+SW_HOLD  93.98, 92.71
+
+LEDs
+----
+Tempo:  7.62, 72.39
+Sync:   7.62, 82.55
+Oct1:   26.67, 82.55
+Oct2:   26.67, 80.73
+Oct3:   26.67, 74.76
+Oct4:   26.67, 63.50
+Oct5:   26.67, 57.15
+ModeR:  44.45, 82.55
+ModeUD: 44.45, 76.20
+ModeD:  44.45, 69.85
+ModeU:  44.45, 63.50
+OnOff:  73.66, 82.55
+Hold:   93.98, 82.55
+Chords: 93.98, 72.39
+
+Holes
+-----
+Top row:
+5.08, 29.21
+67.31, 5.08
+93.98, 5.08
+Bottom row:
+17.78, 92.71
+57.15, 92.71
+83.82, 92.71
+
+Top edge cutouts (below PCB)
+----------------------------
+MIDI ports: 0mm - 63mm  TODO: height
+Debug port: 74mm - 86mm  TODO: height
+
+Right edge cutouts (below PCB)
+------------------------------
+MicroUSB (power): 40mm - 49mm  TODO: height
