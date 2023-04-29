@@ -23,3 +23,10 @@ https://github.com/nebs/eurocad
 ![PCB Back](Images/ArpeggiatorV1.1-back.png)
 ![PCB Front (3D view)](Images/ArpeggiatorV1.1-3d-front.png)
 ![PCB Back (3D view)](Images/ArpeggiatorV1.1-3d-back.png)
+
+## TODO
+
+* Pull in KiCAD-RP-Pico and Eurocad libraries as submodules.
+* Ensure all components values on schematic + PCB silkscreen
+* Include proper BOM and build notes
+* Add photos of assembled PCB
