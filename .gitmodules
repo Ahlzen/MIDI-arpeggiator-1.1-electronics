@@ -1,0 +1,6 @@
+[submodule "3rdParty/KiCad-RP-Pico"]
+	path = 3rdParty/KiCad-RP-Pico
+	url = https://github.com/ncarandini/KiCad-RP-Pico
+[submodule "3rdParty/eurocad"]
+	path = 3rdParty/eurocad
+	url = https://github.com/nebs/eurocad.git
