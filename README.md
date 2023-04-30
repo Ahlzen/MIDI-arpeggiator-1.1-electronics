@@ -3,14 +3,19 @@ Schematics and PCB design for MIDI Arpeggiator v1.1
 
 For KiCad 7
 
-RP2040 Firmware at:
+Firmware at
 https://github.com/Ahlzen/MIDI-arpeggiator-1.1-firmware
 
-Raspberry Pi Pico symbols, footprints and 3D models from:
+Case and panel at
+https://github.com/Ahlzen/MIDI-arpeggiator-1.1-case
+
+### 3rd Party Libraries used
+
+Raspberry Pi Pico symbols, footprints and 3D models from
 https://github.com/ncarandini/KiCad-RP-Pico
 (CC-BY-SA 4.0)
 
-Female DIN (MIDI) connector symbol and footprint from:
+Female DIN (MIDI) connector symbol and footprint from
 https://github.com/nebs/eurocad
 
 ## Images and Resources
@@ -27,6 +32,6 @@ https://github.com/nebs/eurocad
 ## TODO
 
 * Pull in KiCAD-RP-Pico and Eurocad libraries as submodules.
-* Ensure all components values on schematic + PCB silkscreen
+* Ensure all components values on schematic + PCB silkscreen [Done]
 * Include proper BOM and build notes
 * Add photos of assembled PCB
