@@ -31,7 +31,7 @@ https://github.com/nebs/eurocad
 
 ## TODO
 
-* Pull in KiCAD-RP-Pico and Eurocad libraries as submodules.
+* Pull in KiCAD-RP-Pico and Eurocad libraries as submodules. [Done]
 * Ensure all components values on schematic + PCB silkscreen [Done]
 * Include proper BOM and build notes
 * Add photos of assembled PCB
