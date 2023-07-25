@@ -1,6 +1,12 @@
 # Arpeggiator 1.1 - Hardware changelog
 
 
+## v1.1.2
+
+* Fixed PCB routing error for TEMPO net.
+* Cleaned up some PCB labels on silkscreen.
+
+
 ## v1.1.1
 
 * Changed MIDI interface to use H11L1 optocouplers running on
